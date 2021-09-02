@@ -1,2 +1,1 @@
-Hi my name is  vineeth. this is my official repository 
-here i'll be uploading my python codes for mycaptain
+Hi my name is  vineeth. Some of my programming stuff will be uploaded here for the MYCAPTAIN platform. 
